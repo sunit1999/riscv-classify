@@ -1,4 +1,4 @@
-# fa20-proj2-starter
+# [CS61C - Classify](https://github.com/61c-teach/fa20-proj2-starter)
 
 ```
 .
@@ -26,3 +26,5 @@
 
 
 ## Here's what I did in project 2:
+- Wrote Individual utilities such as argmax, read_matrix, matmul etc.
+- Wired all functions in classify
